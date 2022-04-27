@@ -28,7 +28,7 @@ addEventListener("resize", function() {
   init();
 });
 
-addEventListener("click", function(event) {
+addEventListener("click", function() {
   init();
 });
 
